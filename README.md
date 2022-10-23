@@ -13,7 +13,7 @@
 ```json
 {
   "frontend": ["react", "gatsby|next", "mui|tailwindcss"],
-  "backend": ["python@Django Rest API", "typescript", "nodejs", "GCP", "Firebase", "sql"],
+  "backend": ["python@Django", "typescript", "nodejs", "GCP", "Firebase", "sql"],
   "data-analysis" : ["pandas", "numpy", "plotly", "seaborn"]
 }
 
