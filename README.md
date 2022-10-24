@@ -12,7 +12,7 @@
 
 ```json
 {
-  "frontend": ["react", "gatsby|next", "mui|tailwindcss"],
+  "frontend": ["react", "gatsby|next", "mui-v5|tailwindcss"],
   "backend": ["python@Django", "typescript", "nodejs", "GCP", "Firebase", "sql"],
   "data-analysis" : ["pandas", "numpy", "plotly", "seaborn"]
 }
