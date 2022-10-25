@@ -8,7 +8,7 @@
 <🤿 /> Beside programming, I enjoy reading history books and scuba diving.<br> 
 
 
-#### Technologies I work with
+#### Technologies I work with:
 
 ```json
 {
